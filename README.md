@@ -159,3 +159,5 @@ Conclusion
 The project successfully demonstrates how machine learning, guided by transformer-based protein embeddings, can accurately predict antibody fitness and evaluate developability characteristics.
 
 Random Forest emerged as the most robust and balanced model, and the final pipeline provides actionable insights suitable for early-stage antibody optimization and screening.
+<img width="1484" height="844" alt="image" src="https://github.com/user-attachments/assets/e1860fa5-35e1-420d-b020-11e0cbe75837" />
+
